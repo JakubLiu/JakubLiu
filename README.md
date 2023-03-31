@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JakubLiu
 - 👀 **I’m interested in:**  Bioinformatics  ||  Badminton  ||  Gym
 - 🌱 **I’m currently learning:**   Linux OS  ||  Big Data analysis with R  ||  Fortran ||  Nextflow  ||  ML in Python and R
-- 🌱 **My current work is:**   SNP analysis in B.taurus and B.indicus (bachelor thesis)  ||  MRI Data analysis  ||  SNP distribution analysis in H.sapiens  ||  Long Covid Symptoms
+- 🌱 **My current work is:**   SNP analysis in B.taurus and B.indicus (bachelor thesis)  ||  MRI Data analysis  || Genome methylation analysis in humans||  SNP distribution analysis in H.sapiens  ||  Long Covid Symptoms
 - 📫 **How to reach me:**  jakub.liu@gmail.com  ||  www.linkedin.com/in/jakubliu
 
 <!---
