@@ -1,5 +1,3 @@
--I am taken ,all the girls fuck off!!!
-
 👋 Hi, I’m @JakubLiu
 - 👀 **I’m interested in:**  Bioinformatics  ||  Badminton  ||  Gym
 - 🌱 **I’m currently learning:**   Linux OS  ||  Big Data analysis with R  ||  Fortran ||  Nextflow  ||  ML in Python and R || C
