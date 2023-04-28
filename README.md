@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @JakubLiu
+-I am taken ,all the girls fuck off!!!
+
+👋 Hi, I’m @JakubLiu
 - 👀 **I’m interested in:**  Bioinformatics  ||  Badminton  ||  Gym
 - 🌱 **I’m currently learning:**   Linux OS  ||  Big Data analysis with R  ||  Fortran ||  Nextflow  ||  ML in Python and R || C
 - 🌱 **My current work is:**   SNP analysis in B.taurus and B.indicus (bachelor thesis)  ||  MRI Data analysis  || Genome methylation analysis in humans||  SNP distribution analysis in H.sapiens  ||  Long Covid Symptoms
