@@ -1,4 +1,4 @@
-Hi, I’m @JakubLiu
+Hi, I’m @JakubLiu (QBA LIU)
 - **I’m interested in:**  Bioinformatics  ||  Badminton  ||  Gym
 - **I’m currently learning:**   Linux OS  ||  Big Data analysis with R  ||  Fortran ||  Shiny R ||  ML in Python and R || C
 - **My current work is:**   Animal Breeding data analysis, edition and preparation (for BLUPF90)  || Genome methylation analysis in humans||  SNP distribution analysis in H.sapiens  ||  Building a soccer prediction app in Shiny
