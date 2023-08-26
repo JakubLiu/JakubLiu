@@ -5,6 +5,7 @@ Hi, I’m @JakubLiu (QBA LIU)
 - **How to reach me:**  jakub.liu@gmail.com  ||  www.linkedin.com/in/jakubliu
 
 - **Education**
+-       BSc: Biotechnology @ University of Wrocław
 -       BSc: Bioinformatics @ Wrocław University of Environmental and Life Sciences
 -       MSc: Bioinformatics @ Freie Universitaet Berlin / Bioinformatics @ Wrocław University of Environmental and Life Sciences
   
