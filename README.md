@@ -1,2 +1,1 @@
-- Bioinformatics Master Student @ FU-Berlin and UP-Wrocław
-- Student Assistant @ Charite
+
